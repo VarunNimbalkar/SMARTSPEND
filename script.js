@@ -1,0 +1,1 @@
+console.log("SMARTSPEND loaded successfully.");
